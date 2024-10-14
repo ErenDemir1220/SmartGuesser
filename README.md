@@ -22,6 +22,3 @@ The Smart Guesser will continue to make guesses based on your feedback until it 
 Contributing
 If you would like to contribute to this project, please submit a pull request or open an issue.
 
-License
-This project is licensed under the MIT License.
-
